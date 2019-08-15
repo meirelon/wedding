@@ -151,10 +151,6 @@ $(document).ready(function () {
             'style="width:205px; height:42px;">' +
             '</iframe>'
 
-            '<div class="g-plusone" data-size="medium"></div>';
-
-        // '<iframe src="https://plusone.google.com/_/+1/fastbutton?bsv&amp;size=medium&amp;url=' + encodeURIComponent(window.location) + '" allowtransparency="true" frameborder="0" scrolling="no" title="+1" style="width:105px; height:21px;"></iframe>';
-
         share_bar[i].innerHTML = html;
         share_bar[i].style.display = 'inline-block';
     }
