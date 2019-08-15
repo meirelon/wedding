@@ -1,5 +1,5 @@
 (function() {
-  
+
   // get all data in form and return object
   function getFormData(form) {
     var elements = form.elements;
@@ -25,7 +25,7 @@
     var formData = {};
     fields.forEach(function(name){
       var element = elements[name];
-      
+
       // singular form elements just have one value
       formData[name] = element.value;
 
@@ -89,11 +89,11 @@
     }).join('&');
     xhr.send(encoded);
   }
-  
+
   function loaded() {
     console.log("Contact form submission handler loaded successfully.");
     // bind to the submit event of our form
-    var forms = document.querySelectorAll("form.gform");
+    var forms = document.querySelectorAll("form.rsvp-form");
     for (var i = 0; i < forms.length; i++) {
       forms[i].addEventListener("submit", handleFormSubmit, false);
     }
