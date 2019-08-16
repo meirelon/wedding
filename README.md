@@ -1,6 +1,6 @@
 # Wedding Website
 A beautiful, feature rich, device friendly wedding website.  
-_See [shesaidnes.com](shesaidnes.com) for a demo.
+See [shesaidnes.com](https://www.shesaidnes.com) for a demo.
 
 # Highlights
 1. Slick and fully __responsive__ design.
