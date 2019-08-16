@@ -1,6 +1,6 @@
 # Wedding Website
 A beautiful, feature rich, device friendly wedding website.  
-_See [meirelon.github.io/wedding/](http://meirelon.github.io/wedding/) for a demo. Use invite code `271117` to RSVP._
+_See [shesaidnes.com](shesaidnes.com) for a demo.
 
 # Highlights
 1. Slick and fully __responsive__ design.
