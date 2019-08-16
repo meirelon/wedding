@@ -231,7 +231,7 @@ $(document).ready(function () {
 
 // Google map
 function initMap() {
-    var itc_kol = {lat: 40.500346, lng: -74.448957};
+    var itc_kol = {lat: 40.5004844, lng: -74.4515001};
     var map = new google.maps.Map(document.getElementById('map-canvas'), {
         zoom: 15,
         center: itc_kol,
