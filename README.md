@@ -26,4 +26,4 @@ for rsvp feature.
 Hello, my name is Michael, and I am a Data Scientist by trade, specializing in ML. My front end and web dev experience is a hobby.
 
 # Contribute
-I would be more than happy for [PRs](https://help.github.com/articles/about-pull-requests/) or [BTC](https://commerce.coinbase.com/checkout/1efcc118-420e-4512-b1f1-713b20c0f09e)
+I would be more than happy for [PRs](https://help.github.com/articles/about-pull-requests/) or [Crypto Currency](https://commerce.coinbase.com/checkout/1efcc118-420e-4512-b1f1-713b20c0f09e)
