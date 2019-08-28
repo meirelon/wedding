@@ -12,7 +12,7 @@ See [shesaidnes.com](https://www.shesaidnes.com) for a demo.
 use [GitHub pages](https://pages.github.com/) to host and Google sheets (with the help of Google scripts) to store rsvp data.
 
 # Getting Started
-1. `$ cd wedding-website` - go inside the project directory
+1. `$ cd wedding` - go inside the project directory
 2. `$ npm install` - install dependencies _(optional)_
 3. `$ gulp` - compile sass to css, minify js, etc. _(optional)_
 4. That's it, open `index.html` on your browser by just double-clicking on the file.
@@ -26,4 +26,4 @@ for rsvp feature.
 Hello, my name is Michael, and I am a Data Scientist by trade, specializing in ML. My front end and web dev experience is a hobby.
 
 # Contribute
-Firstly, a big thanks 🙏🏻for the overwhelming response on [HackerNews](https://news.ycombinator.com/item?id=18556787) and I would be more than happy for [PRs](https://help.github.com/articles/about-pull-requests/) or [BTC](1NLoTtHMXcnrgQWmA1bJVwwQKiq9sKw8tL) ;)
+I would be more than happy for [PRs](https://help.github.com/articles/about-pull-requests/) or [BTC](https://commerce.coinbase.com/checkout/1efcc118-420e-4512-b1f1-713b20c0f09e)
