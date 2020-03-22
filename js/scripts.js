@@ -191,7 +191,7 @@ $(document).ready(function () {
             end: new Date('June 29, 2020 00:00'),
 
             // Event Address
-            address: 'Rutgers Hillel, New Brunswick NJ',
+            address: 'Rutgers Gardens, New Brunswick NJ',
 
             // Event Description
             description: "We can't wait to see you on our big day. For any queries or issues contact Michael Nestel"
